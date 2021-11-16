@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1b36f970-5391-3734-a8cb-7a13ed238d53"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Language and Its Structure I: Phonology",
+  "course_description": "24.901 is designed to give you a preliminary understanding of how the sound systems of different languages are structured, how and why they may differ from each other. The course also aims to provide you with analytical tools in phonology, enough to allow you to sketch the analysis of an entire phonological system by the end of the term. On a non-linguistic level, the course aims to teach you by example the virtues of formulating precise and explicit descriptive statements; and to develop your skills in making and evaluating arguments.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "24.931",
+  "primary_course_number": "24.901",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
